@@ -23,6 +23,7 @@ For the sequencer's features, after spending some time looking at the features t
 
 Finally, here's an initial sketch of the design I had in mind for the sequencer:
 
-![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--a93afe704b6c1f4545c07a1d4af3058151b67e85/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--070dcacc19548af2a68ade214a66804e770eee15/image.png)
+
   
 
