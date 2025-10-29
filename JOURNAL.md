@@ -16,8 +16,8 @@ Not really sure how to introduce this first section, so I'll just lay down the g
 
 For the sequencer's features, after spending some time looking at the features that other synthesizers/sequencers provide and plucking the ideas that I liked the most (whilst also being wary of both computational limits and potential cost savings), I came up with this feature set:
 - 8 polyphonic tracks with different modes to facilitate various types of sequencing (e.g drum, chord, arp, euclidian, etc etc), can be assigned to any 16 MIDI channels
-- 64 step sequencer with the ability to sequence 4 CC parameters, variable length, microtiming, and randomization/generation features
-- 4 parameter macros for performance
+- 64 step sequencer with the ability to sequence 8 CC parameters, variable length, microtiming, and randomization/generation features
+- 8 parameter macros for performance
 - 16 patterns with chaining
 - MIDI USB/TRS out
 
