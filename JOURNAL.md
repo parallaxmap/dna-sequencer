@@ -6,3 +6,23 @@
   ==================================================================
 -->
 
+## 10/29/2025 - Project goals & concept sketch  
+
+Not really sure how to introduce this first section, so I'll just lay down the goals that I've given myself for this project:
+- Create an affordable MIDI sequencer which doesn't skimp on features
+- Easy to build, customize, and repurpose if necessary
+- Improve on my ability to build, prototype, ship, and iterate on a project
+- Get a deeper understanding of MIDI and how it is implemented
+
+For the sequencer's features, after spending some time looking at the features that other synthesizers/sequencers provide and plucking the ideas that I liked the most (whilst also being wary of both computational limits and potential cost savings), I came up with this feature set:
+- 8 polyphonic tracks with different modes to facilitate various types of sequencing (e.g drum, chord, arp, euclidian, etc etc), can be assigned to any 16 MIDI channels
+- 64 step sequencer with the ability to sequence 4 CC parameters, variable length, microtiming, and randomization/generation features
+- 4 parameter macros for performance
+- 16 patterns with chaining
+- MIDI USB/TRS out
+
+Finally, here's an initial sketch of the design I had in mind for the sequencer:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--a93afe704b6c1f4545c07a1d4af3058151b67e85/image.png)
+  
+
