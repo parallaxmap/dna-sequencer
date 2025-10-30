@@ -27,3 +27,14 @@ Finally, here's an initial sketch of the design I had in mind for the sequencer:
 
   
 
+## 10/30/2025 - Creating initial schematic  
+
+I have completed the majority of the schematic for the main PCB, the only part I have left is to figure out what display module I would like to use and get a KiCad footprint/symbol for it.
+
+Along the way, I had to learn how to create a key/button matrix, how to implement MIDI output electrically, and how to connect a large amount of digital inputs into a microcontroller using an I/O expander, using a lot of intense internet searching, and occasionally asking a few buddies that know more than I do for directions. :)
+
+It was time consuming... but was worth it for the knowledge gained and the satisfaction of a finished task! (for now...)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--4bbe2574a40504b13d01e364edab4251d92627b3/image.png)
+  
+
