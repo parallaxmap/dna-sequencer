@@ -38,3 +38,15 @@ It was time consuming... but was worth it for the knowledge gained and the satis
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--4bbe2574a40504b13d01e364edab4251d92627b3/image.png)
   
 
+## 10/31/2025 - PCB routing, revised schematics and decoration  
+
+I spent about 8 hours all together (re)routing the PCB, finding the appropriate footprints and models for components, and re-configuring the schematics in order to facilitate a more efficient PCB design. Here are some images of the final result, I'm quite proud of it personally...
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIyMywicHVyIjoiYmxvYl9pZCJ9fQ==--0f9cf348f4b77f1683aed32c8af33bd9e3be71ee/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--60f1a8382de0f1176915f5dfc3f5696648f90382/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--068c3144d694cfa6ae3b72d0f6184f5c031d428e/image.png)
+It's intended to be used as a bare PCB (ideally with standoffs), but there are mounting holes that could potentially be used to mount it within an enclosure if you so wish. A good chunk of those 8 hours were spent on 2 previous PCB designs that were abandoned due to the routing being, for lack of a better word, terrible... third time's the charm, as they say :)
+
+Most of the components used here should be able to easily obtained as they are very common electronic components, but I'll have to double check that when it comes to creating the BOM.
+
+After I completed the main PCB rotuing/design, I moved onto adding some small decorations and labels across the design to make it pop out a bit! Although, I was already so exhausted after 3 attempts of routing that I wasn't too tempted to try something extravagant yet...  
+
