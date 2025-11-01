@@ -20,3 +20,24 @@ PCB
 ![](media/pcbnice.png)
 Schematic
 ![](media/schematic.png)
+
+## Bill of Materials
+| **_Item_**              | **_Description_**             | **_Quantity_** | **_Unit Price ($)_** | **_Total Price ($)_** | **_URL_**                                                                                                       | **_Running Total ($ incl VAT)_** |
+| ----------------------- | ----------------------------- | -------------- | -------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| MBB02070C1009FCT00      | 10 Ohm resistor               | 1              | $0.10                | $0.10                 | https://www.digikey.co.uk/en/products/detail/vishay-beyschlag-draloric-bc-components/MBB02070C1009FCT00/5062945 | $0.12                            |
+| MBB02070C3309FCT00      | 33 Ohm resistor               | 1              | $0.10                | $0.10                 | https://www.digikey.co.uk/en/products/detail/vishay-beyschlag-draloric-bc-components/MBB02070C3309FCT00/5063340 | $0.24                            |
+| MCP23018-E/SP           | I/O expander (I2C)            | 1              | $2.13                | $2.13                 | https://www.digikey.co.uk/en/products/detail/microchip-technology/MCP23018-E-SP/1999505                         | $2.80                            |
+| PEC12R-3020F-N0024      | Rotary encoder                | 8              | $1.19                | $9.55                 | https://www.digikey.co.uk/en/products/detail/bourns-inc/PEC12R-3020F-N0024/6153381                              | $14.26                           |
+| MX1A-E1NW               | Key switch                    | 22             | $1.25                | $27.50                | https://www.digikey.co.uk/en/products/detail/cherry-americas-llc/MX1A-E1NW/20180                                | $47.26                           |
+| SJ1-3513N               | 3.5mm TRS jack                | 1              | $1.17                | $1.17                 | https://www.digikey.co.uk/en/products/detail/same-sky-formerly-cui-devices/SJ1-3513N/738686                     | $48.66                           |
+| SC1631                  | RPi Pico 2 microcontroller    | 1              | $5.00                | $5.00                 | https://www.digikey.co.uk/en/products/detail/raspberry-pi/SC1631/24627136                                       | $54.66                           |
+| SSW-120-01-T-S-LL       | Socket (20 pins)              | 2              | $2.38                | $4.76                 | https://www.digikey.co.uk/en/products/detail/samtec-inc/SSW-120-01-T-S-LL/7881604                               | $60.37                           |
+| PH1-20-UA               | Header (20 pins)              | 2              | $0.35                | $0.70                 | https://www.digikey.co.uk/en/products/detail/adam-tech/PH1-20-UA/9830398                                        | $61.21                           |
+| ICS-328-T               | DIP socket                    | 1              | $0.24                | $0.24                 | https://www.digikey.co.uk/en/products/detail/adam-tech/ICS-328-T/9832859                                        | $61.50                           |
+| “971110154”             | Standoffs                     | 4              | $0.85                | $3.40                 | https://www.digikey.co.uk/en/products/detail/w%C3%BCrth-elektronik/971110154/9488627                            | $65.58                           |
+| “4707”                  | Hex nut                       | 4              | $0.14                | $0.56                 | https://www.digikey.co.uk/en/products/detail/keystone-electronics/4707/4499300                                  | $66.25                           |
+| SH1106                  | OLED display module           | 1              | $3.68                | $3.68                 | https://www.aliexpress.com/item/1005006072386746.html                                                           | $70.67                           |
+|11mm Potentiometer Knob|Knobs for encoders (10pcs)|1|$2.10|$2.10|https://www.aliexpress.com/item/1005003991686731.html|$72.77|
+
+
+Choice of keycaps is up to you, as long as they're compatible with Cherry MX. You will also need a Micro USB cable for power and USB MIDI, and a 3.5 TRS to DIN converter for regular MIDI
