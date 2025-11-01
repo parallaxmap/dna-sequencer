@@ -64,3 +64,9 @@ I spent a couple hours looking at all the components I have been using on my PCB
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--4d1aeb75224ed37ee99ca807440f1ad7db104bc5/image.png)
   
 
+## 11/1/2025 3 PM - Creating Gerbers & models, and tidying up the repository  
+
+Coming up to the final stretch of tasks before getting ready to ship, so far today I have spent the time learning how to create Gerber files from KiCad for fabrication, as well as the .wrl model required by the guidelines. To test to make sure that my Gerber files were all correct and ready to be shipped, I dragged it into JLCPCB, and it all seems to have loaded in correctly (thankfully!)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--1d0f14458020b16df2db215db8008dc27d6c996f/image.png)
+Additionally, I spent some time writing some more details about the project in the README, as well as adding pictures of the PCB, schematic, and a nice 3D render from KiCad as the header image. I had to spend some time to figure out how to convert my BOM to a Markdown table, and eventually found [a website](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) that allows me to convert my original LibreOffice Calc file (there is still a BOM.csv within the repository) into a formatted Markdown table.  
+
