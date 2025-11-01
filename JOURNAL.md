@@ -50,3 +50,11 @@ Most of the components used here should be able to easily obtained as they are v
 
 After I completed the main PCB rotuing/design, I moved onto adding some small decorations and labels across the design to make it pop out a bit! Although, I was already so exhausted after 3 attempts of routing that I wasn't too tempted to try something extravagant yet...  
 
+## 11/1/2025 - SMD to Through hole components  
+
+Converted all the previously SMD components on my PCB to through hole components, as this would give me more time to spend actually building the project, gathering tickets, and reduce costs & complexity as I wouldn't (or anybody else building this project) have to do SMD soldering by hand or get PCBA!
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--668ddcbc039007ebbff92062a1f77292ffad0102/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--4c64d8f2ba41c52e57978f957873871d2db983f5/image.png)
+
+  
+
