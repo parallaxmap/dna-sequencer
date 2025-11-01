@@ -1,5 +1,5 @@
 # DNA Sequencer
-![](header.png)
+![](media/header.png)
 A flexible MIDI sequencer powered by a Raspberry Pi Pico 2 (RP2350), inspired by sequencers found in the Korg Volca and Elektron boxes. Aims to be accessible, affordable, repurposable, and expandable.
 
 ## Current features
@@ -13,3 +13,10 @@ A flexible MIDI sequencer powered by a Raspberry Pi Pico 2 (RP2350), inspired by
 
 ## Why'd you make this?
 Currently the options for standalone hardware MIDI sequencers are either budget sequencers that do not have a vast featureset and, at least to myself, were limiting in terms of potential creativity, or more feature rich sequencers which cost a couple arms and legs. I wanted to make a device that would help bridge the gap between those two mountains and leverage the power of DIY & open source in order to create an accessible, affordable, repurposable, and expandable hardware sequencer. Additionally, this project serves as my first 100% serious hardware project, so all of the processes I learn throughout the journey of creating this device will be invaluable to me and whatever future endeavours lie before me... learning is fun!
+
+## Images/Videos
+PCB
+![](media/pcb.png)
+![](media/pcbnice.png)
+Schematic
+![](media/schematic.png)
