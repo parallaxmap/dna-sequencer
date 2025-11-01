@@ -22,6 +22,9 @@ Schematic
 ![](media/schematic.png)
 
 ## Bill of Materials
+
+Choice of keycaps is up to you, as long as they're compatible with Cherry MX. You will also need a Micro USB cable for power and USB MIDI, and a 3.5 TRS to DIN converter for regular MIDI
+
 | **_Item_**              | **_Description_**             | **_Quantity_** | **_Unit Price ($)_** | **_Total Price ($)_** | **_URL_**                                                                                                       | **_Running Total ($ incl VAT)_** |
 | ----------------------- | ----------------------------- | -------------- | -------------------- | --------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | MBB02070C1009FCT00      | 10 Ohm resistor               | 1              | $0.10                | $0.10                 | https://www.digikey.co.uk/en/products/detail/vishay-beyschlag-draloric-bc-components/MBB02070C1009FCT00/5062945 | $0.12                            |
@@ -37,7 +40,10 @@ Schematic
 | “971110154”             | Standoffs                     | 4              | $0.85                | $3.40                 | https://www.digikey.co.uk/en/products/detail/w%C3%BCrth-elektronik/971110154/9488627                            | $65.58                           |
 | “4707”                  | Hex nut                       | 4              | $0.14                | $0.56                 | https://www.digikey.co.uk/en/products/detail/keystone-electronics/4707/4499300                                  | $66.25                           |
 | SH1106                  | OLED display module           | 1              | $3.68                | $3.68                 | https://www.aliexpress.com/item/1005006072386746.html                                                           | $70.67                           |
-|11mm Potentiometer Knob|Knobs for encoders (10pcs)|1|$2.10|$2.10|https://www.aliexpress.com/item/1005003991686731.html|$72.77|
+| MIDI DIN to 3.5mm TRS   | DIN/TRS converter cable       | 1              | $8.20                | $8.20                 | https://www.aliexpress.com/item/1005009365055437.html                                                           | $80.51                           |
+| Ugreen Micro USB Cable  | Micro USB for microcontroller | 1              | $2.69                | $2.69                 | https://www.aliexpress.com/item/32391749504.html                                                                | $83.74                           |
+| XDA Profile PBT Keycaps | 1U keycaps (30pcs)            | 1              | $5.41                | $5.41                 | [https://www.aliexpress.com/item/1005005514406952.html](https://www.aliexpress.com/item/1005005514406952.html)  | $90.23                           |
+| 11mm Potentiometer Knob | Knobs for encoders (10pcs)    | 1              | $2.10                | $2.10                 | https://www.aliexpress.com/item/1005003991686731.html                                                           | $92.75                           |
 
 
-Choice of keycaps is up to you, as long as they're compatible with Cherry MX. You will also need a Micro USB cable for power and USB MIDI, and a 3.5 TRS to DIN converter for regular MIDI
+
