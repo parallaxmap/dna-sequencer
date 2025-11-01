@@ -50,11 +50,17 @@ Most of the components used here should be able to easily obtained as they are v
 
 After I completed the main PCB rotuing/design, I moved onto adding some small decorations and labels across the design to make it pop out a bit! Although, I was already so exhausted after 3 attempts of routing that I wasn't too tempted to try something extravagant yet...  
 
-## 11/1/2025 - SMD to Through hole components  
+## 11/1/2025 12 AM - SMD to Through hole components  
 
 Converted all the previously SMD components on my PCB to through hole components, as this would give me more time to spend actually building the project, gathering tickets, and reduce costs & complexity as I wouldn't (or anybody else building this project) have to do SMD soldering by hand or get PCBA!
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--668ddcbc039007ebbff92062a1f77292ffad0102/image.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--4c64d8f2ba41c52e57978f957873871d2db983f5/image.png)
 
+  
+
+## 11/1/2025 3 AM - Creating parts list/BOM  
+
+I spent a couple hours looking at all the components I have been using on my PCB and compiling them all into a BOM. All parts are sourced from DigiKey, except for the OLED display module + MIDI DIN/TRS converter and Micro USB connector neccecary for testing, which was sourced from AliExpress as these are significantly cheaper over there and/or cannot be ordered from DigiKey.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--4d1aeb75224ed37ee99ca807440f1ad7db104bc5/image.png)
   
 
