@@ -70,3 +70,13 @@ Coming up to the final stretch of tasks before getting ready to ship, so far tod
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--1d0f14458020b16df2db215db8008dc27d6c996f/image.png)
 Additionally, I spent some time writing some more details about the project in the README, as well as adding pictures of the PCB, schematic, and a nice 3D render from KiCad as the header image. I had to spend some time to figure out how to convert my BOM to a Markdown table, and eventually found [a website](https://tabletomarkdown.com/convert-spreadsheet-to-markdown/) that allows me to convert my original LibreOffice Calc file (there is still a BOM.csv within the repository) into a formatted Markdown table.  
 
+## 11/2/2025 - Final task! (for now)  
+
+The initial test firmware is completed! I spent some time researching how to program the Pico for the parts that I have on the board, initially I tried using regular MicroPython and implementing a lot of the stuff manually, but abandoned that idea after some time as I knew it would take way too long than neccecary (and i was sure there was an easier way...)
+
+Eventually, I stumbled upon CircuitPython, which is an alternative to MicroPython that provided a lot of convenience tools like key matrix input, a library for the type of display i am using, etc etc...
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--72f2e8efdca92a45fa00e5c5708aa5e1c17e4dbd/image.png)
+
+The final code (this is not the entire code in the picture) should, if everything is correct, allow you to play a scale of notes on the 16 step keys, display information about what key is pressed and the note being output on the display, and output those notes via the TRS jack!  
+
