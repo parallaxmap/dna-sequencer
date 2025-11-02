@@ -1,4 +1,5 @@
 # this code is a hunk of crap but should be ok for testing if the thing works lol
+# circuitpython required!
 
 import board
 import busio
