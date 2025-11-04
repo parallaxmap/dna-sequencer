@@ -104,3 +104,9 @@ Basically what the title says, don't know how I didn't notice the other times I 
 
 Spent some time refactoring the BOM with the suggestions my reviewer gave, only shaved off about $5.75, but a lot of the components were much cheaper on LCSC - with the caveat of minimum quantites, but either way that means I'm getting much better value for my money. Switches and microcontroller will now be ordered from AliExpress.  
 
+## 11/4/2025 11 PM - Part/BOM adjustment, PCB adjustment  
+
+Had to change a few parts in the BOM as they were not readily available, and thus had to make some very minor changes to the PCB. All of it has been checked and the PCB has been approved by JLCPCB.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--d885345c21cce883969d6281bb81d951652d0895/image.png)
+  
+
