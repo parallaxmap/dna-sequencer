@@ -49,6 +49,8 @@ Choice of keycaps is up to you, as long as they're compatible with Cherry MX. Yo
 | Ugreen Micro USB Cable  | Micro USB for microcontroller | 1              | $2.69                | $2.69                 | https://www.aliexpress.com/item/32391749504.html                                                                | $83.74                           |
 | XDA Profile PBT Keycaps | 1U keycaps (30pcs)            | 1              | $5.41                | $5.41                 | [https://www.aliexpress.com/item/1005005514406952.html](https://www.aliexpress.com/item/1005005514406952.html)  | $90.23                           |
 | 11mm Potentiometer Knob | Knobs for encoders (10pcs)    | 1              | $2.10                | $2.10                 | https://www.aliexpress.com/item/1005003991686731.html                                                           | $92.75                           |
+|1N4148|Diodes|22|$0.03|$0.64|https://www.digikey.co.uk/en/products/detail/onsemi/1N4148/458603|$93.52
+
 
 
 
