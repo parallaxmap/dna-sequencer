@@ -86,3 +86,9 @@ Ended up having some issues that I am currently in the process of resolving rega
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--07349b06cbd9d49d95d9f4a958bdc19b2c0b6bb2/image.png)
   
 
+## 11/4/2025 - Uploaded new assets, gerbers and models based on new design  
+
+The GitHub page should be fully ready now! I'm confident that I've covered all bases, and I spent some time re-exporting some things and creating new graphics to ensure that the repository is fully up to date and ready to ship. Let's just hope it's smooth sailing from here! :)
+![header](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--24441eca475dec45dc67a01ae4852e7e61983341/header.png)
+  
+
