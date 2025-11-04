@@ -98,3 +98,9 @@ Basically what the title says, don't know how I didn't notice the other times I 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODIyMywicHVyIjoiYmxvYl9pZCJ9fQ==--d84b9c4c79558e10073609d74b4504db1284b9d2/image.png)
   
 
+## 11/4/2025 10 PM - Refactoring BOM  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODM5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--969a0f9bca5ed7c195d3803468b251132a2211fe/image.png)
+
+Spent some time refactoring the BOM with the suggestions my reviewer gave, only shaved off about $5.75, but a lot of the components were much cheaper on LCSC - with the caveat of minimum quantites, but either way that means I'm getting much better value for my money. Switches and microcontroller will now be ordered from AliExpress.  
+
